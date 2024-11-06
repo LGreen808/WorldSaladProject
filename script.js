@@ -7,3 +7,7 @@ let myStory = `Hello ${userName}, How are you doing today? How does it feel to b
 console.log(myStory) 
 
 document.getElementById('story').innerHTML = myStory;
+
+let characterName = prompt('What do you want the name of the main character to be?');
+
+console.log(characterName)

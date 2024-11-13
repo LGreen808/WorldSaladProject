@@ -1,13 +1,10 @@
-let userName = prompt('What is your name?');
-let userAge = prompt('How old are you?');
-console.log(userName)
-console.log(userAge) 
+let characterName = prompt('What do you want the name of the main character to be?');
+let firstNoun = prompt('Give me a noun');
+let firstAdjective = prompt('Give me an adjective');
+console.log(firstNoun)
 
-let myStory = `Hello ${userName}, How are you doing today? How does it feel to be ${userAge} years old?`
+
+let myStory =`${characterName} never ran really fast. ${characterName} just wanted to run really fast like their ${firstNoun} but as much as they tried and train they just couldn't.` 
 console.log(myStory) 
 
 document.getElementById('story').innerHTML = myStory;
-
-let characterName = prompt('What do you want the name of the main character to be?');
-
-console.log(characterName)

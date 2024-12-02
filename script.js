@@ -1,4 +1,4 @@
-//List of variables and there prompts for the story
+//List of variables and there prompts for the user to answer
 const characterName = prompt('What do you want the name of the main character to be?');
 let pluralNoun = prompt('Give me a plural noun ending in s...(ex: friends, dogs, cats, etc)');
 let firstAdjective = prompt('Give me an adjective');

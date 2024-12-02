@@ -18,7 +18,7 @@ h3 {
     text-wrap: 20px;
     text-align: center;
     text-decoration: bold;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 /*Styling the background of the webpage*/
@@ -28,7 +28,7 @@ body {
 
 /*Styling the card where the story is in on my webpage*/
 .card {
-    margin-top: 500px;
+    top: 150px;
 }
 
 

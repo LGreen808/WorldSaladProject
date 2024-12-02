@@ -1,11 +1,17 @@
+/*Styling the title of my story on the webpage*/
 h1 {
     text-align: center;
     margin-top: 20px;
+    text-decoration: bold;
+    color: black;
 }
 
+/*Styling the authors of my story on the webpage*/
 h3 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: black;
 }
 
 .story {
@@ -14,12 +20,14 @@ h3 {
     text-decoration: bold;
 }
 
+/*Styling the background of the webpage*/
 body {
-    background-color: lightskyblue;
+    background-color: grey;
 }
 
+/*Styling the card where the story is in on my webpage*/
 .card {
-    height: 500px;
+    height: 450px;
     width: 350px;
     position: center;
     margin-right: 50px;

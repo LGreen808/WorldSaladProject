@@ -1,3 +1,8 @@
+const userName = prompt('What is your name?');
+const titleNames = `By: Layla Green and ${userName}.`
+console.log(titleNames)
+
+
 //List of variables and there prompts for the story
 const characterName = prompt('What do you want the name of the main character to be?');
 let pluralNoun = prompt('Give me a plural noun');
@@ -26,3 +31,4 @@ But sadly ${characterName} lost, turns out ${secondNoun} was just a ${fifthNoun}
 console.log(myStory) 
 
 document.getElementById('story').innerHTML = myStory;
+document.getElementBy('myStory').innerJS = myStory;

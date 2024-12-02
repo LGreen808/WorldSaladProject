@@ -14,10 +14,11 @@ h3 {
     color: black;
 }
 
-.story {
+#story {
     text-wrap: 20px;
     text-align: center;
     text-decoration: bold;
+    font-size: 30px;
 }
 
 /*Styling the background of the webpage*/
@@ -26,13 +27,8 @@ body {
 }
 
 /*Styling the card where the story is in on my webpage*/
-/*.card {
-    height: 450px;
-    width: 350px;
-    position: center;
-    margin-right: 50px;
-    margin-left:  50px;
-    margin-bottom: 40px;
-    margin-top: 40px;
+.card {
+    margin-top: 500px;
 }
-*/
+
+

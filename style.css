@@ -2,7 +2,11 @@ h1 {
     text-align: center;
 }
 
-myStory {
+h3 {
+    text-align: center;
+}
+
+.story {
     text-wrap: 20px;
     text-align: center;
     text-decoration: bold;
@@ -12,4 +16,10 @@ body {
     background-color: lightskyblue;
 }
 
-
+.card {
+    height: 500px;
+    width: 400px;
+    position: center;
+    margin-right: 50px;
+    margin-left:  50px;
+}

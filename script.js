@@ -31,4 +31,4 @@ But sadly ${characterName} lost, turns out ${secondNoun} was just a ${fifthNoun}
 console.log(myStory) 
 
 document.getElementById('story').innerHTML = myStory;
-document.getElementBy('myStory').innerJS = myStory;
+

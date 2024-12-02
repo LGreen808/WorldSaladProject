@@ -17,9 +17,11 @@ h3 {
 #story {
     text-wrap: 20px;
     text-align: center;
-    text-decoration: bold;
+    font-weight: bold;
     font-size: 20px;
+    color: grey;
 }
+
 
 /*Styling the background of the webpage*/
 body {
@@ -29,7 +31,7 @@ body {
 /*Styling the card where the story is in on my webpage*/
 .card {
     top: 100px;
-    bottom: 200px;
+    bottom: 500px;
 }
 
 

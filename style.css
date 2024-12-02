@@ -14,12 +14,13 @@ h3 {
     color: black;
 }
 
+/*Styling the story that shows up on the webpage after the user answers the prompts*/
 #story {
     text-wrap: 20px;
     text-align: center;
-    font-weight: bold;
+    font-weight: lighter;
     font-size: 20px;
-    color: grey;
+    color: black;
 }
 
 
@@ -30,7 +31,7 @@ body {
 
 /*Styling the card where the story is in on my webpage*/
 .card {
-    top: 100px;
+    top: 50px;
     bottom: 500px;
 }
 

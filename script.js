@@ -25,5 +25,6 @@ At the race ${characterName} was very nervous but then the magical ${fourthNoun}
 But sadly ${characterName} lost, turns out ${secondNoun} was just a ${fifthNoun}. The end!.`
 console.log(myStory) 
 
+/*This puts this story in JavaScript above into the HTML id of story and it shows on the webpage*/ 
 document.getElementById('story').innerHTML = myStory;
 

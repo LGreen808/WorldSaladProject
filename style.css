@@ -28,7 +28,8 @@ body {
 
 /*Styling the card where the story is in on my webpage*/
 .card {
-    top: 150px;
+    top: 100px;
+    bottom: 200px;
 }
 
 

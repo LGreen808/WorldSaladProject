@@ -3,18 +3,22 @@ const characterName = prompt('What do you want the name of the main character to
 let pluralNoun = prompt('Give me a plural noun ending in s...(ex: friends, dogs, cats, etc)');
 let firstAdjective = prompt('Give me an adjective');
 let secondAdjective = prompt('Give me another adjective');
+/*First part of the story above*/
 const secondNoun = prompt('What is your favorite wild animal?');
 const thirdNoun = prompt('Give me a normal pet that is magic...(ex: wizard cat, flying dog, lizard witch)');
+/*Second part of the story above*/
 let firstVerb = prompt('Give me a verb in the past tense');
 const antagonistName = prompt('What do you want the name of the antagonist to be?');
 let thirdAdjective = prompt('Give me a mean adjective ex:(jerk, meanie, curse word)')
 const challengeStatement = prompt('Write a statement for the main character to challenge the antagonist to a race');
+/*Third part of the story above*/
 let placeRace = prompt('Where should the race be?');
 const fourthNoun = prompt('What is your favorite magical animal? (ex: Unicorn, dragon, phoenix, etc)');
 let secondVerb = prompt('Give me another verb in the past tense');
 const randomLine = prompt('Give me a random line you can say to someone, please, seriously, just anything, anything that comes into your head');
 let fourthAdjective = prompt('Winning or loosing....trust me this makes sense');
 const fifthNoun = prompt('One or the other...cat or dog?');
+/*Fourth and final part of the story above*/
 
 //Full story with variables as placeholders for the answers to be put in by the user
 let myStory = `${characterName} never ran really fast. ${characterName} just wanted to run really fast like their ${pluralNoun} but as much as they tried and trained they just couldn't. 

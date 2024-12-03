@@ -27,7 +27,7 @@ Then one day a magic ${secondNoun} appeared out of nowhere and told ${characterN
 and then ${characterName} would be able to run super duper fast. The next day ${characterName} ${firstVerb} to ${antagonistName} who was a real big ${thirdAdjective} and said, "${challengeStatement}". 
 At the race ${characterName} was very nervous but then the magical ${fourthNoun} appeared, ${secondVerb} to ${characterName} and told ${characterName} ${randomLine}. Then boom! the race started and ${characterName} was ${fourthAdjective}.
 But sadly ${characterName} lost, turns out ${secondNoun} was just a ${fifthNoun}. The end!.`
-
+/*This prints my story to the console/webpage*/
 console.log(myStory);
 
 /*This puts this story in JavaScript above into the HTML id of story and it shows on the webpage*/ 

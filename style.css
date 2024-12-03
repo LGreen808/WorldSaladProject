@@ -27,12 +27,10 @@ h3 {
 /*Styling the background of the webpage*/
 body {
     background-color: grey;
+    overflow-x: ;
 }
 
 /*Styling the card where the story is in on my webpage*/
 .card {
-    top: 500px;
-    bottom: 500px;
+    
 }
-
-
